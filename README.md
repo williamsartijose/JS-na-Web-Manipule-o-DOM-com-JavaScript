@@ -22,7 +22,7 @@
 
 ![Web 2](https://github.com/williamsartijose/JS-na-Web-Manipule-o-DOM-com-JavaScript/blob/main/Alura1.PNG)
 
-![Web 2](https://github.com/williamsartijose/JS-na-Web-Manipule-o-DOM-com-JavaScript/blob/main/Alura2.PNG)
+
 
 ## Tema da aula
 #### Comportamento do formulario  " 
@@ -36,6 +36,8 @@
 -	Faça como eu fiz
 -	Para saber mais: data-attributes
 -	O que aprendemos?
+-	
+![Web 2](https://github.com/williamsartijose/JS-na-Web-Manipule-o-DOM-com-JavaScript/blob/main/Alura2.PNG)
 
 ## Tema da aula
 #### Adcionar item na lista  " 
@@ -49,6 +51,8 @@
 -	Para saber mais - Nós do DOM
 -	O que aprendemos?
 
+![Web 2](https://github.com/williamsartijose/JS-na-Web-Manipule-o-DOM-com-JavaScript/blob/main/Alura3.PNG)
+
 ## Tema da aula
 #### Concluir tarefa  " 
 
@@ -60,6 +64,7 @@
 -	Faça como eu fiz
 -	O que aprendemos?
 
+![Web 2](https://github.com/williamsartijose/JS-na-Web-Manipule-o-DOM-com-JavaScript/blob/main/Alura4.PNG)
 
 ## Tema da aula
 #### Remnover tarefa  " 
@@ -72,7 +77,8 @@
 -	Projeto final
 -	O que aprendemos?
 -	Conclusão
-
+-	
+![Web 2](https://github.com/williamsartijose/JS-na-Web-Manipule-o-DOM-com-JavaScript/blob/main/Alura5.PNG)
 # Autor
 
 William Sarti José
