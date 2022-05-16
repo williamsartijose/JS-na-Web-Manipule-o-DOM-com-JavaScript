@@ -82,5 +82,5 @@
 # Autor
 
 William Sarti José
+![Web 2](https://github.com/williamsartijose/JS-na-Web-Manipule-o-DOM-com-JavaScript/blob/main/WILLIAM%20SARTI%20JOSE%20-%20Curso%20-%20Alura_page-0001.jpg)
 
-https://www.linkedin.com/in/william-analistadesistema/
